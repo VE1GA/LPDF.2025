@@ -1413,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "4123cb2c965568652799530427cdd9e94b5f6f463ba3a8e92b715ef7b0ed10eb"
+hash = "00bcb49250fa1f8e533a321cd650e8e57e3d7f7b6178e0f92c21b93736bfb6a8"
 metafile = true
 
 [[files]]
@@ -1558,7 +1558,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "8bf558bb846804bbf5858fd795617509caabab721adb6f8c4ad185e75f514532"
+hash = "66206b66ab8d3a44fc67d44640398466630e18d02d3efdeb46f3134022284eb6"
 metafile = true
 
 [[files]]
@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5cd8a8cb84bcc096bf8ed3827ad02b9a4ed7400f67d631d6ac40c09c35d17fde"
+hash = "3a9af1fae141ca05ad9a7d3e7b3b32b627408efed8b40b16a21f2c887b619be0"
 metafile = true
 
 [[files]]
@@ -1624,11 +1624,6 @@ metafile = true
 [[files]]
 file = "mods/leaderboards.pw.toml"
 hash = "68b208e1f95ee09e9ca154157bf291b5753b651eb28c7163d15dcad150524752"
-metafile = true
-
-[[files]]
-file = "mods/lootr.pw.toml"
-hash = "b500ccc37090c11729d8d835058b8d7f0dbdd98ec83a75924ea84d8860587176"
 metafile = true
 
 [[files]]
@@ -1843,7 +1838,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "6e9ed6f6746a95b05a899521662fca7ed48fd4effc52124c4db349a9d2966e8b"
+hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
@@ -1914,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
